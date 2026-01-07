@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment
+.venv/
+
+# data & datasets
+data/
+ai/data/
+rpc_yolo/images/
+rpc_yolo/labels/
+
+# training outputs
+runs/
+ai/runs_pred/
+
+# logs
+*.log
+
+# OS
+.DS_Store

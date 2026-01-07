@@ -1,0 +1,27 @@
+# engineering
+tqdm
+pyyaml
+requests
+rich
+click
+
+# data
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+
+# vision & dl
+torch
+torchvision
+opencv-python
+pillow
+ultralytics
+
+# ml
+scikit-learn
+
+# web
+fastapi
+uvicorn
